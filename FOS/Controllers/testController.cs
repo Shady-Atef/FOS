@@ -13,5 +13,10 @@ namespace FOS.Controllers
         {
             return View();
         }
+
+        public ActionResult Indexx()
+        {
+            return View();
+        }
     }
 }
